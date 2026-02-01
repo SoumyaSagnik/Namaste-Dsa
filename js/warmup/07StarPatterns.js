@@ -208,6 +208,14 @@ console.log("Pattern 8");
 pattern8(5);
 pattern8(8);
 
+/*
+1
+01
+010
+1010
+10101
+*/
+
 function pattern9(n) {
   let curr = '1';
   for (let i=0;i<n;i++) { 
