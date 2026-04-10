@@ -26,3 +26,6 @@ function search(nums, target) {
 console.log(search([-1, 0, 3, 5, 9, 12], 12));
 console.log(search([-1, 0, 3, 5, 9, 12], -1));
 console.log(search([-1, 0, 3, 5, 9, 12], 15));
+
+// time complexity - O(log n) base 2
+// space complexity - O(1)
