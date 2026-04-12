@@ -16,3 +16,5 @@ function ascending(nums) {
 }
 
 console.log(ascending([7, 1, 5, 12, 4, 3, 2]));
+
+// time complexity: O(n^2) | space complexity: O(1)
